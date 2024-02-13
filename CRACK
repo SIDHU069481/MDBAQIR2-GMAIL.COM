@@ -9,8 +9,8 @@
 
     <!--Add buttons to initiate auth sequence and sign out-->{OLD DEVICE}{MDBAQIR2@GMAIL.COM}BaQir%#$1265
 
-    <button id="authorize_button" onclick="handleAuthClick()">Authorize</WINDOWS 11>
-    <button id="signout_button" onclick="handleSignoutClick()">Sign Out</M DEVICE>
+    <button id="authorize_button" onclick="handleAuthClick()">Authorize</WINDOWS 11>{Soon Login}
+    <button id="signout_button" onclick="handleSignoutClick()">Sign Out</M DEVICE>{Pending 3 Devices}
 
     <pre id="content" style="white-space: pre-wrap;"></pre>
 
@@ -18,7 +18,7 @@
       /* exported gapiLoaded */
       /* exported gisLoaded */
       /* exported handleAuthClick */{MDBAQIR2@GMAIL.COM}
-      /* exported handleSignoutClick */{OLD DEVICE}
+      /* exported handleSignoutClick */{OLD DEVICE}{Sign out}
 
       // TODO(MDBAQIR2@GMAIL.COM): Set to client ID and API key from the Developer Console
       const CLIENT_ID = '<YOUR_069481>';
